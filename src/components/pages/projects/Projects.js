@@ -9,7 +9,7 @@ import currency from "../../../images/currency.png";
 const Projects = () => {
   const projectList = [
     { pId: 1, pTitle: "Cricketly", pImg: cricketly, pDescription: "Cricketly is a cricket accessories shopping website built with React and Redux, offering an easy-to-navigate layout for browsing and purchasing cricket gear.", pURL: "https://cricketly.netlify.app/" },
-    { pId: 2, pTitle: "WeatherMate", pImg: WeatherMate, pDescription: "WeatherMate is a simple weather app built with React and Redux, designed to display real-time temperature updates.", pURL: "https://weathermate1.netlify.app/" },
+    { pId: 2, pTitle: "WeatherMate", pImg: WeatherMate, pDescription: "WeatherMate is a simple weather app built with React and Redux, designed to display real-time temperature updates.", pURL: "https://Vishaldk18.github.io/weatherMate-react-app" },
     { pId: 3, pTitle: "ToDoList App", pImg: todo, pDescription: "A to-do list app built with React, designed to help users manage tasks efficiently.", pURL: "https://plananddo.netlify.app/" },
     { pId: 4, pTitle: "Currency Exchange", pImg: currency, pDescription: "A currency converter app that allows users to convert currencies with real-time exchange rates.", pURL: "https://easycurrencyexchange.netlify.app/" },
     { pId: 5, pTitle: "Video Nest", pImg: video, pDescription: "VideoNest is a YouTube-like video streaming app built with React, allowing users to search for videos and play them seamlessly.", pURL: "https://videonest.netlify.app/" },
